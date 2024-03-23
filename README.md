@@ -1,2 +1,2 @@
 # gestaointerna
-Sistema de Gestão Interna de Dados
+Sistema de gestão interna
